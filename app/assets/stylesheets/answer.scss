@@ -1,0 +1,40 @@
+// Place all the styles related to the answer controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#question_container {
+  width: 400px;
+  text-align: center;
+  background-color: #A9A9A9;
+  margin: 20px auto;
+}
+
+#answer_container {
+  width: 400px;
+  text-align: center ;
+  background-color:#A9A9A9;
+margin: 20px auto;
+}
+
+.question_display {
+  text-size: 25px;
+  text-weight: bold;
+}
+
+.answer_display {
+  text-size: 25px;
+  text-weight: bold;
+}
+
+.speaker {
+  text-size: 15px;
+  text-weight: lighter;
+  color: grey;
+}
+
+
+.form {
+  text-align: center;
+  margin:20px auto;
+  padding: 20px;
+}
